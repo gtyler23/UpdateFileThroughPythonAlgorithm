@@ -15,7 +15,7 @@
 
 <p align="center">
   Open the file that contains the allow list: <br/>
-<img src="https://i.imgur.com/8hKirG5.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/a3MQMGq.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
   
@@ -27,26 +27,26 @@
 
  <p align="center">
   Convert the string into a list:  <br/>
-<img src="https://i.imgur.com/yJR4c93.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/JTcBH1w.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
    
  <p align="center">
   Iterate through the remove list:  <br/>
-<img src="https://i.imgur.com/z8hScqB.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/iU2Vjez.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
 
  <p align="center">
   Remove IP addresses that are on the remove list:  <br/>
-<img src="https://i.imgur.com/R2RElN0.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/HTHV9kj.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
 
  <p align="center">
   Update the file with the revised list of IP addresses:  <br/>
 <img src="https://i.imgur.com/FH7yCg8.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
-<img src="https://i.imgur.com/dGP6IvE.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/tkjBlFR.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
    
