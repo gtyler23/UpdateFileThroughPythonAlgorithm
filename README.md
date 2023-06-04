@@ -33,7 +33,7 @@ Convert the string into a list:  <br/>
    
 <p align="center">
 Iterate through the remove list:  <br/>
-<img src="https://i.imgur.com/iU2Vjez.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/lFnJSec.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
 
