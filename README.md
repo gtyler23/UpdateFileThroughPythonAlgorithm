@@ -52,7 +52,7 @@ Update the file with the revised list of IP addresses:  <br/>
    
 <p align="center">
 Summary:  <br/>
-<img src="https://i.imgur.com/zwI8l6I.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
+<img src="https://i.imgur.com/9V94JAs.png" height="80%" width="80%" alt="Python Algorithm Steps"/>
 <br />
 <br />
    
